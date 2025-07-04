@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(ing/bacgraund.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.textuse{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 5px;
+}
+.pr{
+    text-align: left;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.uptext{
+    margin: 10px;
+    text-align: center;
+}
+.div9{
+    display: flex;
+    justify-content: center;
+
+}
+.divbox{
+    display: flex;
+    border: 2px solid white;
+    margin:20px;
+    width: 350px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px 20px 0px 20px;
+    box-shadow: 0px 0px 5px 0px black;
+    
+}
+.strong{
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 0px 0px 10px;
+}
